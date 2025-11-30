@@ -1,9 +1,9 @@
 # emotavia-project
-Emotavia - An Emotional Suppoprt System <br> <br>
-• Developed a MVP website for <a href="https://github.com/anandshenoy29">Ms. Ishita Ghosh</a> & Group who presented the project at the University of Mumbai's 20th Aavishkar Convention 2025-26. <br>
-• Designed user friendly interfaces with AI Integration for mood detection. <br> <br>
+Emotavia - An Emotional Support System <br> <br>
+• Developed a MVP website for <a href="https://www.linkedin.com/in/">Ms. Ishita Ghosh</a> & Group who presented the project at the University of Mumbai's 20th Aavishkar Convention 2025-26. <br>
+• Designed user friendly interfaces along with AI Integration for Mood detection. <br> <br>
 
-Technologies : HTML, CSS, JavaScript & Python Flask <br>
+Technologies : HTML, CSS, JavaScript, Python Flask & ChatGPT model<br>
 Development Tools : Python, PyCharm & MySQL <br> <br>
 
-Created by - Anand Shenoy & <a href="https://github.com/nadar-prince">Prince Nadar</a>
+Created by - Mr. Anand Shenoy & <a href="https://github.com/nadar-prince">Mr. Prince Nadar</a>
