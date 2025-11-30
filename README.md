@@ -1,6 +1,6 @@
 # emotavia-project
 Emotavia - An Emotional Suppoprt System <br> <br>
-• Developed a MVP website for a group who presented at the 20th Aavishkar: Inter-Collegiate / Institute / Department Research Convention 2025-26. <br>
+• Developed a MVP website for a group who presented the project at the University of Mumbai's 20th Aavishkar Convention 2025-26. <br>
 • Designed user friendly interfaces with AI Integration for mood detection. <br> <br>
 
 Technologies : HTML, CSS, JavaScript, Python Flask <br>
