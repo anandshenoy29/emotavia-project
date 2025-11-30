@@ -6,4 +6,4 @@ Emotavia - An Emotional Suppoprt System <br> <br>
 Technologies : HTML, CSS, JavaScript, Python Flask <br>
 Development Tools : Python, PyCharm & MySQL <br> <br>
 
-Created by - Anand Shenoy <a href="https://github.com/anandshenoy29">GitHub</a> & Prince Nadar <a href="https://github.com/nadar-prince">GitHub</a>
+Created by - Anand Shenoy & <a href="https://github.com/nadar-prince">Prince Nadar</a>
