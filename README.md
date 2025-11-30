@@ -7,5 +7,5 @@ Technologies : HTML, CSS, JavaScript, Python Flask <br>
 Development Tools : Python, PyCharm & MySQL <br> <br>
 
 Created by - <br>
-Anand Shenoy (github.com/anandshenoy29) & <br>
-Prince Nadar (github.com/princenadar)
+Anand Shenoy <a href="github.com/anandshenoy29">GitHub</a> & <br>
+Prince Nadar <a href="github.com/princenadar">GitHub</a>
