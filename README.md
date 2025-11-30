@@ -3,4 +3,4 @@
 ✅ Designed user friendly interfaces along with AI Integration for Mood detection. <br> <br>
 ⚙️ **Technologies:** HTML, CSS, JavaScript, Python Flask & ChatGPT model<br>
 ⚙️ **Development Tools:** Python, PyCharm & MySQL <br> <br>
-Created by - Mr. Anand Shenoy & <a href="https://github.com/nadar-prince">Mr. Prince Nadar</a>
+Created by - <a href="https://github.com/anandshenoy29">Mr. Anand Shenoy</a> & <a href="https://github.com/nadar-prince">Mr. Prince Nadar</a>
